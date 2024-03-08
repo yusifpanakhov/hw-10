@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "IBM Plex Sans", sans-serif;
+
+}
+
+header{
+    border-bottom: 1px solid #F4E8D8;
+    padding: 25px 40px;
+    margin-bottom: 129px;
+}
+
+.logo{
+    position: absolute;
+    top: 25px;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+}
+
+.list-item{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    color: #14203E;
+}
+
+.navigation{
+    display: flex;
+    flex-direction: row;
+    gap: 56px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    position: absolute;
+    bottom: 680px;
+    margin-left: 1100px;
+}
+
+.button1{
+    background-color: #F6F0E8;
+    border-radius: 10px;
+    padding: 13px 30px;
+}
+
+.button2{
+    background-color: #14203E;
+    border-radius: 10px;
+    padding: 13px 30px;
+    color: white;
+    
+}
+
+main{
+    border-bottom: 1px solid #F4E8D8;
+    margin-bottom: 30px;
+}
+
+.text1{
+    color: #14203E;
+    display: flex;
+    justify-content: center;
+    font-size: 33px;
+    text-align-last: center;
+}
+
+.text2{
+    color: #14203E;
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    text-align-last:center ;
+}
+
+.button3-1{
+    padding: 25px 40px;
+    border: none;
+    background-color: #14203E;
+    color: white;
+    border-radius: 10px;
+}
+
+.button3{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 140px;
+}
+.A{
+    display: flex;
+    justify-content: center;
+    color: #14203E;
+}
+
+.image-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 31px;
+    margin-top: 31px;
+}
+
+.text3{
+    color: #14203E;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 110px;
+    margin-bottom: 15px;
+}
+
+.text3-1{
+    color: #14203E;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 110px;
+}
+
+.text4{
+    color: #14203E;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 429px;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 1000px;
+}
+
+.text4-1{
+    color: #14203E;
+    font-size:14px;
+    font-weight: 400;
+    margin-left: 429px;
+    position: absolute;
+    top: 1095px;
+}
+
+.text5{
+    color: #14203E;
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    top: 1000px;
+    margin-left: 748px;
+}
+
+.text5-1{
+    position: absolute;
+    top: 1100px;
+    color: #14203E;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 748px;
+}
+
+.text6{
+    color: #14203E;
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    top: 1000px;
+    margin-left: 1067px;
+}
+
+.text6-1{
+    column-rule-color: #14203E;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 1067px;
+    position: absolute;
+    top: 1090px;
+}
